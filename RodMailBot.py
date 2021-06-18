@@ -8,7 +8,7 @@ import sys
 
 print("System automatycznej odpowiedzi na zapytania o saldo działkowców. Wersja 0.1")
 print("Copyright (C) 2021 Filip Napierała")
-print("Data kompilacji XX.XX.2021r.")
+print("Data kompilacji 18.06.2021r.")
 print("--------------------------------------------------------------------------------------------------------")
 print("Niniejszy program jest wolnym oprogramowaniem - możesz go rozpowszechniać dalej i/lub modyfikować ")
 print("na warunkach Powszechnej Licencji Publicznej GNU")
@@ -21,7 +21,7 @@ print("Powszechna Licencja Publiczna GNU powinna zostać ci dostarczona razem z 
 print("--------------------------------------------------------------------------------------------------------")
 print("Program powinien być uruchamiany na serwerze")
 print("Proszę sprawdzić plik config.txt pod kątem zgodności danych domyślnych z tymi na Państwa Ogrodzie")
-print("Potencjalne aktualizacje programu będą dostępne pod adresem: www.github.com/filnap/XXX")
+print("Potencjalne aktualizacje programu będą dostępne pod adresem: www.github.com/filnap/RodMailBot")
 
 config = "config.txt"
 parser = configparser.ConfigParser()
